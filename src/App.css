@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+
+#milestone{
+  height: 500px;
+  border: 1px solid black;
+}
